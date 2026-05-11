@@ -1,9 +1,9 @@
 # Privacy Policy
 
-**Last updated:** April 20, 2026
+**Last updated:** May 6, 2026
 
 ## Overview
-GroceryList ("the App") is a personal grocery and meal planning app. Your privacy is important to us. This policy explains what data we collect and how it is used.
+MealRoute ("the App") is a personal grocery and meal planning app. Your privacy is important to us. This policy explains what data we collect and how it is used.
 
 ## Data We Collect
 - **Grocery items, recipes, and meal plans** you create in the app
