@@ -3,7 +3,7 @@
 **Last updated:** May 6, 2026
 
 ## Overview
-MealRoute ("the App") is a personal grocery and meal planning app. Your privacy is important to us. This policy explains what data we collect and how it is used.
+Cartplate ("the App") is a personal grocery and meal planning app. Your privacy is important to us. This policy explains what data we collect and how it is used.
 
 ## Data We Collect
 - **Grocery items, recipes, and meal plans** you create in the app
